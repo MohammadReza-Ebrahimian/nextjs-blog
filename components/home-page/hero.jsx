@@ -6,7 +6,7 @@ const Hero = () => {
     <section className={css.hero}>
       <div className={css.image}>
         <Image
-          src="/images/site/max.jpg"
+          src="/images/site/max.webp"
           alt="Monsieur Image"
           width={300}
           height={300}
